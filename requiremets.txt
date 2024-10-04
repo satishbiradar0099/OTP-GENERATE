@@ -1,0 +1,12 @@
+Step 1: Create a folder and files
+Create a folder on your computer, e.g., OTPGENERATE
+
+Inside that folder, create the following three files:
+
+#index.html (Main HTML file that displays the OTP form)
+#styles.css (For styling the OTP form)
+#script.js (JavaScript to handle input and redirection)
+
+Create another HTML file called success.html inside the same folder,
+ which will be the page that opens after the OTP is submitted.
+
